@@ -2,7 +2,8 @@
 
 ## About
 
-- Snappy is chat web application, that help user to has a great conversation with his contacts.
+- Snappy is chat web application, that help user to has a great conversation .
+- this app i am using reactjs, Nodejs, mongoose as database, expressjs, socket.io 
 
 ## React Packages
 
